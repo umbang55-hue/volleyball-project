@@ -77,6 +77,14 @@ li {
     margin-top: 30px;
 }
 
+.highlight-box {
+    background-color: #f0fdf4;
+    padding: 20px;
+    border-radius: 12px;
+    border-left: 6px solid #22c55e;
+    margin-top: 15px;
+}
+
 footer {
     text-align: center;
     margin-top: 50px;
